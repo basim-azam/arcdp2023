@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 ## Datasets
 
-The datasets used for investigations are included in the data directory. These datasets can be downloaded from thier respective links below 
+The datasets used for investigations are included in the data directory. These datasets can also be downloaded from thier respective links below 
 1. [CamVid Database](http://mi.eng.cam.ac.uk/research/projects/VideoRec/)
 2. [Stanford Backgrodund Dataset](http://dags.stanford.edu/projects/scenedataset.html)
 3. [MSRC Databases](http://research.microsoft.com/vision/cambridge/recognition/)
