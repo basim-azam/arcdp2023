@@ -1,8 +1,5 @@
 ### ARC Discovery Project 
-# Deep Learning Architecture with Context Adaptive Features for Image Parsing
-
-## Chief Investigator: Prof Brijesh Verma, Central Queensland University, Australia
-## Partner Investigator: Prof Mengjie Zhang, Victoria University of Wellington, New Zealand
+### Deep Learning Architecture with Context Adaptive Features for Image Parsing
 
 _____________________________________________________________________________________________
 
