@@ -25,7 +25,7 @@ SuperPixelData.m
 
 ## Contributions / Queries 
 
-Reequests queries are welcome. 
+Requests queries are welcome. 
 Please drop me an email at b.azam@cqu.edu.au
 
 ## License
